@@ -1,6 +1,8 @@
 name: Generate Resume on PR
 on:
   pull_request:
+    paths:
+      - "resume.md"
   workflow_dispatch:
 jobs:
   generate-resume:

@@ -19,7 +19,7 @@ jobs:
           input_path: resume.md
           output_dir: out 
       - name: Rename file
-        run: mv resume/resume.pdf resume/mikeodriscoll_resume.pdf
+        run: mv out/resume.pdf out/mikeodriscoll_resume.pdf
       - name: Upload Release Artifacts
         uses: softprops/action-gh-release@v0.1.15
         with:
