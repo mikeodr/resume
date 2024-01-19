@@ -8,7 +8,7 @@ jobs:
   generate-resume:
     permissions:
       contents: write # Required for Upload release assets
-    name: Generate Resume
+    name: Release Resume
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
