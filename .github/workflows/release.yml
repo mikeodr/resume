@@ -17,11 +17,12 @@ jobs:
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
           input_path: resume.md
-          output_dir: out 
-      - name: Rename file
-        run: mv out/resume.pdf out/mikeodriscoll_resume.pdf
+          output_dir: out
+      - name: Rename pdf resume
+        run: cp out/resume.pdf mikeodriscoll_resume.pdf
       - name: Upload Release Artifacts
         uses: softprops/action-gh-release@v0.1.15
         with:
-          files: out/*
-
+          files: |
+            out/resume.html
+            mikeodriscoll_resume.pdf
