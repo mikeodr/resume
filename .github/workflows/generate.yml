@@ -1,0 +1,22 @@
+name: Generate Resume on PR
+on:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  generate-resume:
+    name: Generate Resume
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Build resume output
+        uses: BaileyJM02/markdown-to-pdf@v1.2.0
+        with:
+          input_path: resume.md
+          output_dir: resume
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: Resume
+          path: resume
+          retention-days: 5

@@ -1,0 +1,27 @@
+name: Release Resume
+on:
+  push:
+    tags:
+      - "*"
+  workflow_dispatch:
+jobs:
+  generate-resume:
+    permissions:
+      contents: write # Required for Upload release assets
+    name: Generate Resume
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Build resume output
+        uses: BaileyJM02/markdown-to-pdf@v1.2.0
+        with:
+          input_path: resume.md
+          output_dir: out 
+      - name: Rename file
+        run: mv resume/resume.pdf resume/mikeodriscoll_resume.pdf
+      - name: Upload Release Artifacts
+        uses: softprops/action-gh-release@v0.1.15
+        with:
+          files: out/*
+
