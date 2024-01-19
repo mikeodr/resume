@@ -23,7 +23,7 @@ I've automated my home with Home Assistant, and I monitor my infrastructure via 
 - Updated build systems to generate a single unified image that all virtual and physical platforms share.
 - Brought up multiple new hardware and virtualized platforms.
 - Designed and deployed multiple backend systems to support new features and manage sensor
-  lifecycles.
+  life cycles.
 - Backend service development and maintenance: Python, Golang, OpenAPI
 - AWS service deployment: Cloudformation Terraform, ECS, EKS/Kubernetes,
 - Customer connectivity debugging and remediation through tcpdump, haproxy and openvpn
