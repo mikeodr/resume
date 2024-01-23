@@ -8,15 +8,16 @@ mike@unusedbytes.ca • [linkedin.com/in/mikeodr](https://linkedin.com/in/mikeod
 
 ## Summary
 
-My experience ranges from low level drivers to user facing GUIs.
+I am a software developer with 14 years experience. My technical skills range from low level drivers to user facing GUIs.
 I've helped ship millions of phones, hundreds of robots, and secured numerous customer's networks.
-Much of my hobby work is open source and you can find it on my GitHub.
-My home infrastructure is deployed as much as possible with infrastructure as code.
-I've automated my home with Home Assistant, and I monitor my infrastructure via Prometheus with outage alerts through PagerDuty. Ask me more, I'd be happy to share!
+My hobby work is open source and you can find it on my GitHub.
+Much of my home infrastructure is deployed with infrastructure as code, and I monitor it via Prometheus with outage alerts through PagerDuty. I've also automated my home with Home Assistant. Ask me more, I'd be happy to share!
 
 ## Experience
 
-### Senior Software Developer - **Arctic Wolf** - _Jan 2019 - Present_
+### **Arctic Wolf** - _Jan 2019 - Present_ Remote/Waterloo, ON
+
+> Senior Software Engineer
 
 - Led updates to observability and alerting on all sensors. Coordinated with observability team and
   security services to deliver actionable alerts regarding sensor health directly to customers.
@@ -32,7 +33,9 @@ I've automated my home with Home Assistant, and I monitor my infrastructure via 
 - Sensor fleet observability with Prometheus & Alertmanager
 - Suricata configuration optimization, performance investigation, dropped packet triage and remediation.
 
-### Software Developer - **Dejero** - _Feb 2018 - Dec 2018_
+### **Dejero** - _Feb 2018 - Dec 2018_ Waterloo, ON
+
+> Software Developer
 
 - Contributed major improvements to the network performance of the Gateway appliance.
   - Added adaptive UDP input queue management, and priority cellular connection routing to the blending stack.
@@ -46,7 +49,10 @@ I've automated my home with Home Assistant, and I monitor my infrastructure via 
 - Gerrit and Jenkins
 - chroot and docker build system configuration.
 
-### Senior Software Engineer - **Clearpath Inc.** - _Jul 2014 - Feb 2018_
+### **Clearpath Inc.** - _Jul 2014 - Feb 2018_ Waterloo, ON
+
+> Software Engineer • Jul 2014 - Nov 2016  
+> Senior Software Engineer • Nov 2016 - Feb 2018
 
 - Lead platform developer for for the OTTO 100 Autonomous Mobile Robot.
   - Drove full system firmware
@@ -66,7 +72,7 @@ I've automated my home with Home Assistant, and I monitor my infrastructure via 
 
 #### More Experience
 
-* *Please visit my LinkedIn profile for additional experience*
+- _Please visit my LinkedIn profile for additional experience_
 
 ## Education
 
