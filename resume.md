@@ -10,7 +10,7 @@ mike@unusedbytes.ca • [linkedin.com/in/mikeodr](https://linkedin.com/in/mikeod
 
 My experience ranges from low level drivers to user facing GUIs.
 I've helped ship millions of phones, hundreds of robots, and secured numerous customer's networks.
-Much of my hobby work is open source and you can find it on my Github.
+Much of my hobby work is open source and you can find it on my GitHub.
 My home infrastructure is deployed as much as possible with infrastructure as code.
 I've automated my home with Home Assistant, and I monitor my infrastructure via Prometheus with outage alerts through PagerDuty. Ask me more, I'd be happy to share!
 
@@ -63,6 +63,10 @@ I've automated my home with Home Assistant, and I monitor my infrastructure via 
 - Configuration and investigation of wired and wireless networks using Wireshark and TCPDump
 - Robot software development: ROS (Robot Operating System)
 - EtherNet/IP, CIP comms for industrial PLCs (Allen-Bradley) from ROS.
+
+#### More Experience
+
+* *Please visit my LinkedIn profile for additional experience*
 
 ## Education
 
