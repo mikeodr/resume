@@ -49,7 +49,7 @@ Much of my home infrastructure is deployed with infrastructure as code, and I mo
 - Gerrit and Jenkins
 - chroot and docker build system configuration.
 
-### **Clearpath Inc.** - _Jul 2014 - Feb 2018_ Waterloo, ON
+### **Clearpath Inc.** - _Jul 2014 - Feb 2018_ Kitchener, ON
 
 > Software Engineer • Jul 2014 - Nov 2016  
 > Senior Software Engineer • Nov 2016 - Feb 2018
