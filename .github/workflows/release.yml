@@ -48,8 +48,6 @@ jobs:
         with:
           name: HTML Release
           path: release
-      - name: Debug list
-        run: ls -R
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
