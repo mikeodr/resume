@@ -5,6 +5,8 @@ on:
       - main
     paths:
       - "resume.md"
+    tags:
+      - "*"
 
 jobs:
   generate-resume:
