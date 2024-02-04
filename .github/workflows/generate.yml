@@ -2,8 +2,6 @@ name: Generate Resume Preview on PR
 concurrency: preview-${{ github.ref }}
 on:
   pull_request:
-    paths:
-      - "resume.md"
     types:
       - opened
       - reopened
@@ -14,17 +12,19 @@ jobs:
   generate-resume:
     name: Generate Resume
     runs-on: ubuntu-latest
-    if: github.event.action != 'closed'
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        if: github.event.action != 'closed'
       - name: Build resume output
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
+        if: github.event.action != 'closed'
         with:
           input_path: resume.md
           output_dir: resume
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
+        if: github.event.action != 'closed'
         with:
           name: Resume
           path: resume
