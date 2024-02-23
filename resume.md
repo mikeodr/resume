@@ -2,7 +2,7 @@
 
 Kitchener, Ontario, Canada
 
-mike@unusedbytes.ca • [linkedin.com/in/mikeodr](https://linkedin.com/in/mikeodr) • [github.com/mikeodr](https://github.com/mikeodr)
+mike@unusedbytes.ca • [mikeodriscoll.ca](https://mikeodriscoll.ca) • [linkedin.com/in/mikeodr](https://linkedin.com/in/mikeodr) • [github.com/mikeodr](https://github.com/mikeodr)
 
 ---
 
