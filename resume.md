@@ -17,15 +17,16 @@ I've helped ship millions of phones, hundreds of robots, and secured numerous cu
 
 > Senior Software Engineer
 
-> Golang, Python, Flask, OpenAPI, Ansible, Kubernetes, DynamoDB, PostgreSQL, Terraform, AWS, Azure, Prometheus
+> Golang, Python, Flask, OpenAPI, Ansible, Kubernetes, Bazel, Terraform, AWS, Azure, Prometheus
 
-- Improve customer security outcomes by optimizing Suricata configurations, improving performance, and decreasing dropped packets up to 90% in specific circumstances.
-- Led updates to observability and alerting on all sensors. Coordinating with observability and security services teams to deliver actionable alerts directly to customers, reducing sensor downtime and misconfigurations.
-- Updated build pipeline to generate a single unified image that all virtual and physical platforms share, decreasing build chain complexity and testing.
-- Brought up multiple new physical hardware configurations, increasing sales by providing various performance options and form factors.
+- Updated sensor build pipeline to generate a single unified image that all virtual and physical platforms share, decreasing build chain complexity and testing.
+- Transitioned services from internal build tooling to using Bazel, ensuring full reproducible binaries.
+- Updated CI/CD from shared Jenkins resources to GitHub actions for multiple microservices, reducing developer wait times for deploys by up to 90 minutes.
+- Migrated multiple backend services to AWS Graviton, realizing 10-30% savings in OpEx.
 - Added support for multiple hypervisors for virtual sensors, reducing sales friction by providing more options to a wider variety of customers. Opening up an estimated $2mm in potential bookings with the general availability of the Azure virtual sensor.
+- Led greenfield development for deploying services into Azure, a new cloud service provider for company. Authoring and deploying new services to support customer offerings in Azure Marketplace.
 - Simplified Sensor configuration by moving manual toil to REST based APIs, reducing provisioning and operation teams overhead and increasing efficiency.
-- Coordinated with infrastructure teams to migrate multiple backend services to AWS Graviton, realizing 10-30% savings in OpEx.
+- Led updates to observability and alerting on all sensors. Coordinating with observability and security services teams to deliver actionable alerts directly to customers, reducing sensor downtime and misconfigurations.
 - Authored detailed runbooks for operations teams to troubleshoot customer network and connectivity issues, eliminating 90% of all tickets passed to the engineering team for triage
 
 ### **Dejero** - _Feb 2018 - Dec 2018_ Waterloo, ON
