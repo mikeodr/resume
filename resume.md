@@ -11,13 +11,15 @@ mike@unusedbytes.ca • [mikeodriscoll.ca](https://mikeodriscoll.ca) • [linked
 I am a software developer with 14 years experience working on low level drivers, robotics, networking and cybersecurity.
 I've shipped millions of phones, hundreds of robots, and secured thousands of customer networks.
 
+## Skills
+
+C, C++, Go, Python, Flask, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL, DynamoDB, Linux, OAuth, Networking, TCP/IP, Async IO, Django, Flask, OpenAPI
+
 ## Experience
 
 ### [**Arctic Wolf**](https://arcticwolf.com) - _Jan 2019 - Present_
 
 > Senior Software Engineer
-
-> Golang, Python, Flask, OpenAPI, Ansible, Kubernetes, DynamoDB, PostgreSQL, Terraform, AWS, Azure, Prometheus, OAuth
 
 - Maintain, update and improve a footprint of 50,000+ sensors globally, with services distributed across 6 AWS regions.
 - Built login flow using Auth0 for customer self service activation of sensors, improving customer experience and reducing customer onboarding time from days to hours.
@@ -33,9 +35,8 @@ I've shipped millions of phones, hundreds of robots, and secured thousands of cu
 
 > Software Developer
 
-> C++14, Golang, Python, Boost asyncIO, VPN, tun/tap, gRPC, protobuf
 
-- Contributed major improvements to the network performance of the Gateway appliance, adding adaptive UDP input queue management reducing network latency
+- Developed major improvements to the network performance of the Gateway appliance, adding adaptive UDP input queue management reducing network latency by 700ms
 - Resolved Wi-Fi regulatory compliance configuration issues, allowing for certification and increasing sales in new geographies
 - Add priority network connection routing to the blending stack, allowing customers to reduce their billing upwards of 80%
 - Diagnosing customer network issues with with Wireshark and TCPDump, resulting in improvements to iptables/ebtables rules and increasing total data throughput by 10-15%
@@ -44,14 +45,14 @@ I've shipped millions of phones, hundreds of robots, and secured thousands of cu
 
 > Software Engineer • Jul 2014 - Nov 2016 | Senior Software Engineer • Nov 2016 - Feb 2018
 
-> C/C++, Python, ROS, Boost, Qt, CMake, STM32, FreeRTOS, CAN/CANopen, I2C, Ansible, Rundeck, debconf, dpkg, PLCs
 
-- Promoted to software lead for the OTTO 100 Autonomous Mobile Robot (AMR), driving all platform software design through to product launch. Resulting in the deployment for multiple fortune 500 customers on multiple continents
-- Worked collaboratively with the electrical team to bring up embedded systems and design test plans. Minimizing the number of hardware revisions required to just 2 for the OTTO 100 AMR
+- Promoted to software lead for the OTTO 100 Autonomous Mobile Robot (AMR), driving all platform software design through to product launch.
+- Shipped OTTO 100 ARMs to Fortune 500 companies within one year of product development start.
+- Engaged with the electrical team to bring up embedded systems and design test plans. Minimizing the number of hardware revisions required to just 2 for the OTTO 100 AMR
 - Improved manufacturing efficiency by replacing manual software installation steps with an automated installer with configuration prompts. Reducing per unit build time by 1.5 hours
 - Reduced field service technician commissioning time with creation of REST APIs to setup wireless networking and AMR configuration options. Eliminating manual input errors and improving deployment time per unit.
-- Created flexible APIs for third party integrators to censure interoperability with multiple attachments such as conveyors and robotic arms. Leading to increased ecosystem of products for end user customization and flexibility
-- Contributed to ROS open source packages
+- Created flexible APIs for third party integrators to censure interoperability with a variety attachments such as conveyors and robotic arms. Leading to increased ecosystem of products for end user customization and flexibility
+- Produced upstream fixes and improvements to ROS open source packages
 - Inventor for a method of charging AGV/AMRs [US11287831B2](https://patents.google.com/patent/US11287831B2/en)
 
 
