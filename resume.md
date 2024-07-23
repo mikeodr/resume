@@ -13,7 +13,7 @@ I've shipped millions of phones, hundreds of robots, and secured thousands of cu
 
 ## Skills
 
-C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL, DynamoDB, Linux, OAuth, Networking, TCP/IP, Async IO, Django, Flask, OpenAPI
+C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL, DynamoDB, Linux, OAuth, Networking, TCP/IP, Async IO, Django, Flask, OpenAPI, Bazel
 
 ## Experience
 
@@ -27,9 +27,9 @@ C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL,
 - Improved customer security outcomes by optimizing Suricata configurations, improving packet performance, and decreasing dropped packets up to 90%.
 - Led updates to observability and alerting on all sensors, coordinating with observability and security services teams to deliver actionable alerts directly to customers, reducing sensor downtime and misconfigurations.
 - Updated build pipeline to generate a single unified image that all virtual and physical platforms share, decreasing build chain complexity and testing time.
-- Lead the team in adding support for multiple hypervisors. Opening up $2mm in potential bookings with the release of the Azure virtual sensor.
+- Lead the team in adding support for new hypervisors. Opening up $2mm in potential bookings with the release of the Azure virtual sensor.
 - Simplified Sensor configuration by moving manual toil to Golang backend services with OpenAPI REST based APIs, reducing provisioning and operation teams overhead and eliminating manual steps.
-- Coordinated with infrastructure teams to migrate multiple backend services to AWS Graviton, realizing 10-30% savings in OpEx.
+- Coordinated with infrastructure teams to migrate backend services to AWS Graviton, realizing 10-30% savings in OpEx.
 
 ### [**Dejero**](https://www.dejero.com/products/gateway) - _Feb 2018 - Dec 2018_
 
@@ -37,7 +37,7 @@ C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL,
 
 
 - Developed major improvements to the network performance of the Gateway appliance, adding adaptive UDP input queue management reducing network latency by 700ms
-- Resolved Wi-Fi regulatory compliance configuration issues, allowing for certification and increasing sales in new geographies
+- Resolved Wi-Fi regulatory compliance issues, increasing sales in new geographies
 - Add priority network connection routing to the blending stack, allowing customers to reduce their billing upwards of 80%
 - Diagnosing customer network issues with with Wireshark and TCPDump, resulting in improvements to iptables/ebtables rules and increasing total data throughput by 10-15%
 
