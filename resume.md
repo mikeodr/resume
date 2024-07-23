@@ -13,7 +13,7 @@ I've shipped millions of phones, hundreds of robots, and secured thousands of cu
 
 ## Skills
 
-C, C++, Go, Python, Flask, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL, DynamoDB, Linux, OAuth, Networking, TCP/IP, Async IO, Django, Flask, OpenAPI
+C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL, DynamoDB, Linux, OAuth, Networking, TCP/IP, Async IO, Django, Flask, OpenAPI
 
 ## Experience
 
