@@ -35,11 +35,10 @@ C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL,
 
 > Software Developer
 
-
-- Developed major improvements to the network performance of the Gateway appliance, adding adaptive UDP input queue management reducing network latency by 700ms
-- Resolved Wi-Fi regulatory compliance issues, increasing sales in new geographies
-- Add priority network connection routing to the blending stack, allowing customers to reduce their billing upwards of 80%
-- Diagnosing customer network issues with with Wireshark and TCPDump, resulting in improvements to iptables/ebtables rules and increasing total data throughput by 10-15%
+- Improved network performance of Gateway appliance by implementing adaptive UDP input queue management, reducing latency by 700ms
+- Resolved Wi-Fi regulatory compliance issues, expanding sales into new markets
+- Implemented priority network connection routing in the blending stack, enabling customers to reduce billing costs by up to 80%
+- Diagnosed customer network problems using Wireshark and TCPDump, optimizing iptables/ebtables rules for a 10-15% increase in total data throughput
 
 ### [**OTTO Motors**](https://ottomotors.com/) - _Jul 2014 - Feb 2018_
 
