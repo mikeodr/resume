@@ -16,7 +16,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       - name: Build resume output
-        uses: BaileyJM02/markdown-to-pdf@v1.2.0
+        uses: BaileyJM02/markdown-to-pdf@v2
         with:
           input_path: resume.md
           output_dir: out
