@@ -2,7 +2,7 @@
 
 Kitchener, Ontario, Canada
 
-mike@unusedbytes.ca • [mikeodriscoll.ca](https://mikeodriscoll.ca) • [linkedin.com/in/mikeodr](https://linkedin.com/in/mikeodr) • [github.com/mikeodr](https://github.com/mikeodr)
+<mike@unusedbytes.ca> • [mikeodriscoll.ca](https://mikeodriscoll.ca) • [linkedin.com/in/mikeodr](https://linkedin.com/in/mikeodr) • [github.com/mikeodr](https://github.com/mikeodr)
 
 ---
 
@@ -35,16 +35,14 @@ C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL,
 
 > Software Developer
 
-
-- Developed major improvements to the network performance of the Gateway appliance, adding adaptive UDP input queue management reducing network latency by 700ms
-- Resolved Wi-Fi regulatory compliance issues, increasing sales in new geographies
-- Add priority network connection routing to the blending stack, allowing customers to reduce their billing upwards of 80%
-- Diagnosing customer network issues with with Wireshark and TCPDump, resulting in improvements to iptables/ebtables rules and increasing total data throughput by 10-15%
+- Improved network performance of Gateway appliance by implementing adaptive UDP input queue management, reducing latency by 700ms
+- Resolved Wi-Fi regulatory compliance issues, expanding sales into new markets
+- Implemented priority network connection routing in the blending stack, enabling customers to reduce billing costs by up to 80%
+- Diagnosed customer network problems using Wireshark and TCPDump, optimizing iptables/ebtables rules for a 10-15% increase in total data throughput
 
 ### [**OTTO Motors**](https://ottomotors.com/) - _Jul 2014 - Feb 2018_
 
 > Software Engineer • Jul 2014 - Nov 2016 | Senior Software Engineer • Nov 2016 - Feb 2018
-
 
 - Promoted to software lead for the OTTO 100 Autonomous Mobile Robot (AMR), driving all platform software design through to product launch.
 - Shipped OTTO 100 ARMs to Fortune 500 companies within one year of product development start.
@@ -54,7 +52,6 @@ C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL,
 - Created flexible APIs for third party integrators to censure interoperability with a variety attachments such as conveyors and robotic arms. Leading to increased ecosystem of products for end user customization and flexibility
 - Produced upstream fixes and improvements to ROS open source packages
 - Inventor for a method of charging AGV/AMRs [US11287831B2](https://patents.google.com/patent/US11287831B2/en)
-
 
 _Please visit my [LinkedIn](https://linkedin.com/in/mikeodr) profile for additional experience_
 
