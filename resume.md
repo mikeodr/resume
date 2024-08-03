@@ -2,7 +2,7 @@
 
 Kitchener, Ontario, Canada
 
-mike@unusedbytes.ca • [mikeodriscoll.ca](https://mikeodriscoll.ca) • [linkedin.com/in/mikeodr](https://linkedin.com/in/mikeodr) • [github.com/mikeodr](https://github.com/mikeodr)
+<mike@unusedbytes.ca> • [mikeodriscoll.ca](https://mikeodriscoll.ca) • [linkedin.com/in/mikeodr](https://linkedin.com/in/mikeodr) • [github.com/mikeodr](https://github.com/mikeodr)
 
 ---
 
@@ -44,7 +44,6 @@ C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL,
 
 > Software Engineer • Jul 2014 - Nov 2016 | Senior Software Engineer • Nov 2016 - Feb 2018
 
-
 - Promoted to software lead for the OTTO 100 Autonomous Mobile Robot (AMR), driving all platform software design through to product launch.
 - Shipped OTTO 100 ARMs to Fortune 500 companies within one year of product development start.
 - Engaged with the electrical team to bring up embedded systems and design test plans. Minimizing the number of hardware revisions required to just 2 for the OTTO 100 AMR
@@ -53,7 +52,6 @@ C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL,
 - Created flexible APIs for third party integrators to censure interoperability with a variety attachments such as conveyors and robotic arms. Leading to increased ecosystem of products for end user customization and flexibility
 - Produced upstream fixes and improvements to ROS open source packages
 - Inventor for a method of charging AGV/AMRs [US11287831B2](https://patents.google.com/patent/US11287831B2/en)
-
 
 _Please visit my [LinkedIn](https://linkedin.com/in/mikeodr) profile for additional experience_
 
