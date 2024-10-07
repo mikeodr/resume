@@ -21,7 +21,7 @@ C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL,
 
 > Senior Software Engineer
 
-- Maintain, update and improve a footprint of 50,000+ sensors globally, with services distributed across 6 AWS regions.
+- Maintain, update and improve a footprint of 35,000+ sensors globally, with services distributed across 6 AWS regions.
 - Built login flow using Auth0 for customer self service activation of sensors, improving customer experience and reducing customer onboarding time from days to hours.
 - Authored runbooks on IP routing, Layer7 filtering, and DNS configuration troubleshooting of VPN connectivity issues in customer networks, eliminating 90% of all tickets passed to the engineering team for triage.
 - Improved customer security outcomes by optimizing Suricata configurations, improving packet performance, and decreasing dropped packets up to 90%.
