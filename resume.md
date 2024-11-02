@@ -17,9 +17,9 @@ C, C++, Go, Python, Ansible, Terraform, AWS, Prometheus, Kubernetes, PostgreSQL,
 
 ## Experience
 
-### [**Arctic Wolf**](https://arcticwolf.com) - _Jan 2019 - Present_
+### [**Arctic Wolf**](https://arcticwolf.com) - _Jan 2019 - Nov 2024_
 
-> Senior Software Engineer
+> Senior Software Engineer • _Jan 2019 - Nov 2024_ | Lead Developer _Nov 2024_ • _Nov 2024_
 
 - Maintain, update and improve a footprint of 35,000+ sensors globally, with services distributed across 6 AWS regions.
 - Built login flow using Auth0 for customer self service activation of sensors, improving customer experience and reducing customer onboarding time from days to hours.
