@@ -48,7 +48,7 @@ jobs:
         with:
           name: PDF
       - name: Upload Release Artifacts
-        uses: softprops/action-gh-release@v2.0.8
+        uses: softprops/action-gh-release@v2.0.9
         with:
           files: mikeodriscoll_resume.pdf
 
